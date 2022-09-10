@@ -7,7 +7,7 @@
   "content_scripts": [
     {
       "js": [ "jquery.min.js", "elolive.js" ],
-      "matches": [ "https://projects.fivethirtyeight.com/2018-nfl-forecasting-game/*" ]
+      "matches": [ "https://projects.fivethirtyeight.com/*-nfl-forecasting-game/*" ]
     }
   ],
   "background": {
